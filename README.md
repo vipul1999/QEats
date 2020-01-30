@@ -12,7 +12,7 @@ This is the backend of Qeats Food Ordering android app. It is a microexperience 
 ##### Context 
 The QEats backend provides all the necessary functionality required to enable users to order their favorite dishes from nearby restaurants. The following is the overall architecture of the QEats platform. Please study it carefully and understand all the individual components.
 
-<img src="photos/first.png" width=400px >
+<img src="photos/first.png" >
 
 ##### Primary Goals
 1. Clone QEats Sneak Peek code repository.
@@ -27,7 +27,9 @@ You  published a message to a Facebook page using the python requests module. It
 To write a review for an order, the QEats Android app will prompt users to first take a picture (or select one from their image gallery). They can then add a description and some #hashtags
  
  <img src ="photos/second1.png">
+ 
  <img src ="photos/second2.png">
+ 
  <img src ="photos/second3.png">
 
 To post reviews to the QEats Facebook page,you have to start the QEats backend server and configure the Android app to connect to it. You can then post QEats reviews from your phone to the QEats Facebook page.
@@ -45,7 +47,9 @@ Take reviews to a wider audience by sharing them on Pinterest.
 You will extend support in the QEats backend to enable posting reviews to a Pinterest board. To post user reviews on Pinterest, you have to first obtain the necessary authentication credentials. You will then use Pinterest’s POST API to post user reviews.
 
 <img src="photos/third1.png">
+
 <img src="photos/third2.png">
+
 <img src="photos/third3.png">
 
 ##### Primary Goals
