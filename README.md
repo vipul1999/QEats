@@ -27,7 +27,6 @@ You  published a message to a Facebook page using the python requests module. It
 To write a review for an order, the QEats Android app will prompt users to first take a picture (or select one from their image gallery). They can then add a description and some #hashtags
  
  <img src ="photos/second1.png">
- <img src ="photos/second1.png">
  <img src ="photos/second2.png">
  <img src ="photos/second3.png">
 
