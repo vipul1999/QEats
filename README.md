@@ -58,7 +58,5 @@ Computer vision and AI have enabled us to cluster and categorize images at an un
 You will send the QEats review image to Clarifai and receive a list of potential category matches. You will then send this category list as suggested #hashtags for the user to choose from and add to their reviews.
 ##### Primary Goal
 Use the Clarifai Predict API to categorize review images and send #hashtag suggestions to users
-## Screenshots
-<img src="screenshots/11.jpeg" height=450px width=300px> <img src="screenshots/12.jpeg" height=450px width=300px> <img src="screenshots/13.jpeg" height=450px width=300px> <img src="screenshots/14.jpeg" height=450px width=300px>  <img src="screenshots/15.jpeg" height=450px width=300px>   <img src="screenshots/16.jpeg" height=450px width=300px>
 
 
