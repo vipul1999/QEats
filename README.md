@@ -28,9 +28,6 @@ To write a review for an order, the QEats Android app will prompt users to first
  
  <img src ="photos/second1.png">
  
- <img src ="photos/second2.png">
- 
- <img src ="photos/second3.png">
 
 To post reviews to the QEats Facebook page,you have to start the QEats backend server and configure the Android app to connect to it. You can then post QEats reviews from your phone to the QEats Facebook page.
 
@@ -48,9 +45,7 @@ You will extend support in the QEats backend to enable posting reviews to a Pint
 
 <img src="photos/third1.png">
 
-<img src="photos/third2.png">
 
-<img src="photos/third3.png">
 
 ##### Primary Goals
 1. Use Postman to create a new Pinterest board (QEats Reviews) and get an access token.
