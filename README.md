@@ -5,7 +5,7 @@ QEats is a popular food ordering app. It gives users a list of nearby restaurant
 The most requested feature on QEats is the ability to share reviews on past orders on QEats' social media pages.
 1. Users want to click a photo of the orders they have received, write eye-catching captions and add relevant tags to make their reviews easily discoverable.
 2. The QEats team is relying on your expertise to implement this Reviews feature.
-This is the backend of Qeats Food Ordering android app. It is a microexperience program in which we have to add certain features in the app.
+This is the backend of Qeats Food Ordering android app. It is a micro experience program in which we have to add certain features in the app.
 
 ## Solution 
 ##### Task 1 : Publish a message to Facebook page (#Git #Facebook Share API)
